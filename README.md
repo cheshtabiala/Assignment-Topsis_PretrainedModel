@@ -43,13 +43,12 @@ BLEU measures the precision of a generated summary by comparing it to one or mor
 
 ## Visualization 
 
-<img width="934" alt="Screenshot 2024-01-29 at 3 26 57 AM" src="https://github.com/cheshtabiala/Assignment-Topsis_PretrainedModel/assets/94442128/76d018e2-f491-441a-aed6-c0797ba45200">
+<img width="934" alt="Screenshot 2024-01-29 at 3 48 13 AM" src="https://github.com/cheshtabiala/Assignment-Topsis_PretrainedModel/assets/94442128/baa46228-6fc8-4b0a-8b96-0a0367d31458">
+
 
 ## Author
 
 - Cheshta Biala
+- 102103545
 
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
