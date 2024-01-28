@@ -28,9 +28,7 @@ BERTScore measures the similarity between the contextual embeddings of model-gen
 
 METEOR (Metric for Evaluation of Translation with Explicit ORdering) considers precision, recall, stemming, and synonymy to evaluate the quality of machine-generated text. The score ranges from 0 to 1, with higher scores indicating better alignment with human references.
 
-### ROUGE
 
-ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used to evaluate the quality of summaries by comparing them to human reference summaries. Common ROUGE metrics include ROUGE-N (n-gram overlap) and ROUGE-L (longest common subsequence). Scores vary depending on the specific metric but generally range from 0 to 1.
 
 ### BLEU (Bilingual Evaluation Understudy)
 
@@ -42,6 +40,10 @@ BLEU measures the precision of a generated summary by comparing it to one or mor
 2. Run the evaluation script for each model with specific summarization tasks and datasets.
 3. Explore the generated evaluation metrics, including TOPSIS, BERTScore, METEOR, ROUGE, and BLEU.
 4. Analyze and interpret the results to understand the relative performance of each pretrained summarization model.
+
+## Visualization 
+
+<img width="934" alt="Screenshot 2024-01-29 at 3 26 57 AM" src="https://github.com/cheshtabiala/Assignment-Topsis_PretrainedModel/assets/94442128/76d018e2-f491-441a-aed6-c0797ba45200">
 
 ## Author
 
